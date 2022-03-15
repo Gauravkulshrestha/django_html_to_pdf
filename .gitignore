@@ -1,3 +1,5 @@
 env/
 htmltopdf/__pycache__/
 htmltopdf/app/__pycache__/
+*.pyc
+db.sqlite3
